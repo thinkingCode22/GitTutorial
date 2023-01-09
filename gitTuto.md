@@ -14,5 +14,5 @@
 - 체크아웃 : 특정 브랜치(혹은 커밋)으로 돌아갈 떄 사용
 - 소스트리 체크아웃 : 브랜치 이름을 더블클릭하는 것으로 체크아웃 가능
 
-## functionA Part1
-- 18라인에 functionA Part1 에 대한 내용 작성 및 수정
+## functionA Part2
+- 18라인에 functionA Part2 에 대한 내용 작성 및 수정
